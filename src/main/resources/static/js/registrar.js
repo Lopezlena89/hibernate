@@ -26,7 +26,7 @@ async function registrarUsuario(){
     },
     body:JSON.stringify(datos)
   });
-  const usuarios = await request.json();
+
 
 
 }
